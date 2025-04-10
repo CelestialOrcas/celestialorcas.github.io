@@ -17,7 +17,7 @@
 #
 - type: tumblr
   icon: 'fab fa-tumblr'   # icons powered by <https://fontawesome.com/>
-   url:  'https://tumblr.com/celestialorcas' 
+  url:  'https://tumblr.com/celestialorcas' 
 #
 # - type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
