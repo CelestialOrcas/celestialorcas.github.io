@@ -98,8 +98,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:/home/sky/Documents/importantimages/pfp.png
-
+avatar: https://64.media.tumblr.com/9345525995850f0583efeb7abfea0bc2/4027edc6c1152d9e-8c/s96x96u_c1/2bd6c71d07e2d5940c882a25fed314a1967e1ded.pnj
+ 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
