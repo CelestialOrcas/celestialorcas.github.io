@@ -1,8 +1,8 @@
 ---
-title: "So I played Ace Attorney"
+title: "So i played ace attorney"
 date: 2025-04-11 20:10:00 Europe/London
-categories: [Video Game Reviews]
-tags: [Ace Attorney] [Video Games]
+categories: [Video_Game_Reviews]
+tags: [ace_attorney, video_games]
 ---
 
 # These games are nuts!
