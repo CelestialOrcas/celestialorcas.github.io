@@ -1,7 +1,6 @@
 ---
 title: "I made a blog!"
 date: 2025-04-10 22:20:00 Europe/London
-comments: true
 ---
 
 # Welcome

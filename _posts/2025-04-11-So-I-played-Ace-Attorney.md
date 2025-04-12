@@ -3,7 +3,6 @@ title: "So I played Ace Attorney"
 date: 2025-04-11 20:10:00 Europe/London
 categories: [Video Game Talks]
 tags: [ace attorney, video games]
-comments: true
 ---
 
 # These games are nuts!
