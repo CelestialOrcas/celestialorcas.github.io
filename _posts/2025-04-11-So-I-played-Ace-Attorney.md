@@ -1,7 +1,7 @@
 ---
 title: "So I played Ace Attorney"
 date: 2025-04-11 20:10:00 Europe/London
-categories: [Video_Game_Talks]
+categories: [Video Game Talks]
 tags: [ace attorney, video games]
 ---
 
@@ -15,3 +15,29 @@ I'm only two chapters in (just finished chapter 2 of the first game) and I'm alr
 Only critique so far is how if you dont find the correct thing to push on, or object to at the right moment, then it just loops you. Like there were times where I'd push or object something because I'd worked out what was wrong, and what evidence would prove it, but because it wasn't what the game wanted me to do in that moment, it was deemed unrelated to the case, not exactly sure how thatd be fixed, but it is only the first game so we shall see!
 
 Overall though, really really enjoying it and will continue to post about it as I continue \o/
+
+<html>
+<body>
+
+<form id="myForm">
+Full name: <input id="userName" type="text" name="fname">
+<br><br>
+<textarea id ="userComment" rows="4" cols="50" name="comment"> Enter comment here...</textarea>
+<br><br>
+<input type="button" onclick="myFunction()" value="Submit">
+</form>
+<h5>Submitted data :</h5>
+<p id="data"></p>
+<script>
+function myFunction(){
+let data = "";  let name = document.getElementById("userName").value
+let email = document.getElementById("userEmail").value
+let comment = document.getElementById("userComment").value
+ 
+data = "User name : "+name+"<br/>User email : "+email+ "<br/>User comment : "+comment
+ 
+document.getElementById("data").innerHTML = data  // display data to paragraph
+}
+</script>
+</body>
+</html>
