@@ -118,7 +118,7 @@ comments:
     category_id: DIC_kwDOOXXduc4CpCFs
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
-    input_position: # 'top'
+    input_position: top
     lang: # 'site.lang'
     reactions_enabled: # '1'
 
