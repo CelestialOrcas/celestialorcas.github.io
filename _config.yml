@@ -120,7 +120,7 @@ comments:
     strict: # optional, default to '0'
     input_position: top
     lang: # 'site.lang'
-    reactions_enabled: # '1'
+    reactions_enabled: '0'
 
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
