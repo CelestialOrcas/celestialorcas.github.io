@@ -3,6 +3,7 @@ title: "So I played Ace Attorney"
 date: 2025-04-11 20:10:00 Europe/London
 categories: [Video Game Talks]
 tags: [ace attorney, video games]
+comments: true
 ---
 
 # These games are nuts!
@@ -15,4 +16,3 @@ I'm only two chapters in (just finished chapter 2 of the first game) and I'm alr
 Only critique so far is how if you dont find the correct thing to push on, or object to at the right moment, then it just loops you. Like there were times where I'd push or object something because I'd worked out what was wrong, and what evidence would prove it, but because it wasn't what the game wanted me to do in that moment, it was deemed unrelated to the case, not exactly sure how thatd be fixed, but it is only the first game so we shall see!
 
 Overall though, really really enjoying it and will continue to post about it as I continue \o/
-
