@@ -20,3 +20,7 @@ The whole interaction was just awkward, I had to fill every silence, which ok ma
 The whole situation felt very distant and a bit odd, I started to doubt the whole relationship, like it seems great and pretty health, we break up (and I understand the reasons and honestly support them), then two months of radio silence and nothing to say, we became...kind of nothing so quickly, so were we really anything to begin with?  
 Then I very quickly stopped that thought process, because at least at the moment... I don't care? Thats the closure, I got it and I genuinely think I'm fine now. I'm confused by it yea, but in terms of moving on I think I can, and already have because I don't feel too upset by this weird and awkward encounter. It's more like a "huh, thats interesting...anyway" than anything else, so yea... anyway  
 Lets see what's next
+
+
+
+
