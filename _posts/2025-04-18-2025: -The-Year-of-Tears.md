@@ -1,6 +1,6 @@
 ---
 title: "2025: The Year of Tears"
-date: 2025-04-19 13:40:00 Europe/London
+date: 2025-04-18 13:40:00 Europe/London
 categories: [Personal Life Stuff]
 tags: [Trans, Mental Health, Emotions]
 ---
