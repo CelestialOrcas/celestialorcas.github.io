@@ -6,6 +6,9 @@ order: 4
 
 # Hiya!
 
+Its been a whole year, I'll update this at some point-
+But for now, message from 2025 Sky
+
 My name is Sky Ford (she/they, if ya nasty)
 I'm a 21 year old Psychology student from the UK with a strong love for Doctor Who and Zelda (those being my favourite tv show and game series respectively).
 My favourite Zelda game is Wind Waker, but my favourite *game* is Outer Wilds
