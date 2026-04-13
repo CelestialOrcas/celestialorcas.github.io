@@ -4,20 +4,20 @@ date: 2026-04-13 19:17:00 Europe/London
 ---
 
 1983
-	**January:**
-		*Eris Winters is born January 13th*
+	**January:**  
+		*Eris Winters is born JJanuary 13th*  
 
 1984
-	**August:**
-		*Tassa is born August 25th*
+	**August:**  
+		*Tassa is born August 25th*  
 
 1986
-	**August**
-		*Astralis Winters|Astralis and Skye Winters are born August 15th*
+	**August**  
+		*Astralis Winters|Astralis and Skye Winters are born August 15th*  
 
-	**December**
-		*Joseph Furr is born December 9th*
-		
+	**December**  
+		*Joseph Furr is born December 9th*  
+
 2001
 	**March:**
 		*Skye's heart issues lead to her sudden death.* In the coming months her family projects Skye's image onto Astralis, lot of comparisons, equate them as the same, denial. Eris grows resentful of Astralis for being the one who survived.
